@@ -6,7 +6,7 @@
 - Font awesome icons
 ---
 
-### [>> View Online](https://thiagowfer.github.io/airtravel/)
+### 👁️[ View Online](https://thiagowfer.github.io/airtravel/)
 
 ---
 
