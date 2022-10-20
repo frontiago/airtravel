@@ -10,4 +10,4 @@
 
 ---
 
-![Print](/img/print.jpg)
+![Print](/img/print.png)
