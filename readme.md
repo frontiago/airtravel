@@ -7,7 +7,7 @@
 - Font awesome icons
 ---
 
-### 👁️[ View Online](https://thiagowfer.github.io/airtravel/)
+### 👁️[ View Online](https://frontiago.github.io/airtravel/)
 
 ---
 
